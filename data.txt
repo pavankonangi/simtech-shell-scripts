@@ -1,0 +1,11 @@
+Name 	Maths 	Physics Chemistry  Computer Sciencen
+Pavan	95	86	90	   100
+Aks	99	96	85	   90
+Srik	100	95	95	   75
+Rak	90	85	90	   98
+Abhi	95	85	85	   100
+Chand	100	95	92	   85
+Yesh	80	85	85	   75
+Bhask	95	92	85	   90
+pk-Dj	90	95	75	   75
+
